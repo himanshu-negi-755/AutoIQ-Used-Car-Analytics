@@ -40,4 +40,3 @@ pytest
 
 Himanshu Negi
 
-M608 Individual Programming Project
