@@ -1,6 +1,6 @@
 # AutoIQ: Used Car Market Analytics & Price Prediction
 
-AutoIQ is a machine learning-powered dashboard developed using Python, Streamlit, Scikit-learn, Pandas, and Plotly.
+AutoIQ is a machine learning-powered dashboard for analysing used-car market trends and predicting vehicle prices using Python, Streamlit, Scikit-learn, Pandas, and Plotly.
 
 ## Features
 
@@ -10,7 +10,7 @@ AutoIQ is a machine learning-powered dashboard developed using Python, Streamlit
 - Data visualisation
 - Machine learning models
 
-## Technologies
+## Technologies Used
 
 - Python
 - Streamlit
@@ -39,4 +39,3 @@ pytest
 ## Author
 
 Himanshu Negi
-
